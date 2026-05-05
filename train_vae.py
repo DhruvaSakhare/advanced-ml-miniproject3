@@ -17,7 +17,7 @@ from baseline import ErdosRenyiBaseline, compute_novelty_uniqueness, collect_sta
 # ── Config ────────────────────────────────────────────────────────────────────
 HIDDEN_DIM     = 128
 LATENT_DIM     = 32
-EPOCHS         = 300
+EPOCHS         = 200
 DROPOUT        = 0.15
 LR             = 5e-4
 BATCH_SIZE     = 32
